@@ -1,3 +1,6 @@
+// This will take an amino acid input sequence, then create a permutation array given a target AA and mutant
+
+
 from itertools import product
 
 inputseq = input("Enter sequence: ").upper()
