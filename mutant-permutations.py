@@ -1,4 +1,4 @@
-# This will take an amino acid input sequence, then create a permutation array .txt file given a target AA and mutant
+# Take an amino acid input sequence and create a permutation array .txt file given a target AA and mutant
 # Was written during my NSERC USRA placement in 2018.
 
 
