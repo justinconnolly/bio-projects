@@ -1,5 +1,5 @@
 # Take an amino acid input sequence and create a permutation array .txt file given a target AA and mutant
-# Was written during my NSERC USRA placement in 2018.
+# Was written during my NSERC USRA research position in 2018.
 
 
 from itertools import product
